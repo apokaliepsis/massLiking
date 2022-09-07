@@ -1,4 +1,4 @@
-# Масслайкинг Инстаграм
-Программа позволяет делать масслайкинг в инстаграм для своего аккаунта
+# Massliking Instagram
+The program allows you to do mass liking on Instagram for your account
 
 
